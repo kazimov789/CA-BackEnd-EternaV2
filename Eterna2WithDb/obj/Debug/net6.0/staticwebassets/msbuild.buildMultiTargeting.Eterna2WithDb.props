@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Eterna2WithDb.props" />
+</Project>
